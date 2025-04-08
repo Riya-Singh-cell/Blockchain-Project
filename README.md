@@ -1,11 +1,11 @@
 # Blockchain-Project
-# 🔐 MultiSig Wallet Smart Contract
+#  MultiSig Wallet Smart Contract
 
 A simple yet functional Multi-Signature Wallet written in Solidity. This contract allows multiple owners to collectively approve and execute transactions, enhancing security and decentralization.
 
 ---
 
-## 📜 Overview
+##  Overview
 
 This MultiSig Wallet contract allows:
 - Multiple owners to be set at deployment.
